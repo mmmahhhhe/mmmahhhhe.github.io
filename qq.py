@@ -1,3 +1,2 @@
-sadsadsad
-asdsafs
+print('asa')
 asdsafs
